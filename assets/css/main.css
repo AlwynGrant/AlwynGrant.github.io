@@ -4169,3 +4169,25 @@ input, select, textarea {
 		}
 
 	}
+
+	.fas > .resume-anchor {
+		font-weight: normal;
+		font-size: 17.3333px;
+		text-decoration: none;
+		border: none !important;
+		font-family: "Source Sans Pro", Helvetica, sans-serif;
+	}
+
+	.fa-file-pdf {
+		height: 30px;
+		display: flex;
+		align-items: center;
+	}
+
+	.brands > .anchor {
+		border: none !important;
+	}
+
+	.solid > a {
+		border: none !important;
+	}
