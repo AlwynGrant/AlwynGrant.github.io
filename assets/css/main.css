@@ -4208,3 +4208,12 @@ input, select, textarea {
 	.solid > a {
 		border: none !important;
 	}
+
+	.about-me-r-link {
+		color: red;
+		font-weight: bold;
+	}
+
+	.about-me-r-link:hover {
+		color: rgb(255, 134, 134) !important;
+	}
